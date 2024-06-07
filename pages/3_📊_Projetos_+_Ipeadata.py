@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import ipeadatapy as ip
 import matplotlib.pyplot as plt
-import 1_Projetos as main
+import Projetos as main
 
 st.markdown("# Projetos + Ipeadata")
 st.sidebar.markdown("# Projetos + Ipeadata")
