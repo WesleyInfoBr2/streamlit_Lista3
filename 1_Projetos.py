@@ -1,5 +1,3 @@
-!pip install ipeadatapy
-!pip install matplotlib
 
 #importando as bibliotecas
 import pandas as pd
