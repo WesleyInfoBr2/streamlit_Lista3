@@ -24,7 +24,7 @@ st.code(code, language='python')
 
 df = pd.read_csv("https://raw.githubusercontent.com/WesleyInfoBr2/streamlit_Lista3/main/projetos.csv", sep=";") 
 # para descobrir o link do arquivo, abra ele no `Git` e clique em `Raw`
-st.dataframe(df)
+st.dataframe(df, num_rows=3)
 
 st.write("Uso do `st.experimental_data_editor()` para edição do dataframe na tela")
 
