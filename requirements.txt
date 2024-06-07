@@ -3,4 +3,3 @@ pandas
 numpy
 ipeadatapy
 matplotlib
-Teste_Streamlit
